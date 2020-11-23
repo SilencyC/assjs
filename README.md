@@ -1,2 +1,2 @@
-# assjs
+# ass.js
 jsLib
